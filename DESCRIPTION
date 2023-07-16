@@ -7,7 +7,7 @@ Description: BioAnta estimates body composition indices
     (biomarkers and anthropometric indices).
     Input core body composition indices (weight [W], 
     height [H], waist circumference[WC],hip circumference[HC],
-    triglycerides [TG], etc) information, the package generates the needed index.
+    triglycerides [TG], etc) information, then the package generates the needed index.
 License: GPL (>= 3)
 Encoding: UTF-8
 RoxygenNote: 7.2.3
